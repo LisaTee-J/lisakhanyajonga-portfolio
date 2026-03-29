@@ -4,6 +4,7 @@ My GitHub Portfolio
 # Lisakhanya Tinae Jonga
 
 📍 **Cape Town, Western Cape**  
+📧 **Email:** 222430575@mycput.ac.za
 🔗 **LinkedIn:** [Lisakhanya Jonga](https://www.linkedin.com/in/lisakhanya-jonga-0b5b23325)
 
 ---
