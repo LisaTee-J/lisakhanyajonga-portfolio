@@ -1,7 +1,7 @@
 # lisakhanyajonga-portfolio
 My GitHub Portfolio
 
-# 👩🏽‍💻 Lisakhanya Tinae Jonga
+# Lisakhanya Tinae Jonga
 
 📍 **Cape Town, Western Cape**  
 🔗 **LinkedIn:** [Lisakhanya Jonga](https://www.linkedin.com/in/lisakhanya-jonga-0b5b23325)
