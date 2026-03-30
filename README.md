@@ -60,21 +60,6 @@ National Senior Certificate
 - Worked effectively within a team  
 - Developed strong **communication and teamwork skills**
 
----
-
-## 🚀 Projects
-
-### IzikoLethu Student Accommodation Website
-
-A web platform designed to help students **find and manage accommodation**.
-
-### Empiras Global Academy Learner Dashboard Website
-
-A dashboard platform that allows students to **track academic information and progress**.
-
-### Student Enrollment Desktop Application
-
-A **Java-based desktop application** developed to manage student registrations.
 
 ---
 
