@@ -3,13 +3,13 @@ My GitHub Portfolio
 
 # Lisakhanya Tinae Jonga
 
-📍 **Cape Town, Western Cape**  
-📧 **Email:** 222430575@mycput.ac.za
-🔗 **LinkedIn:** [Lisakhanya Jonga](https://www.linkedin.com/in/lisakhanya-jonga-0b5b23325)
+ **Cape Town, Western Cape**  
+ **Email:** 222430575@mycput.ac.za
+ **LinkedIn:** [Lisakhanya Jonga](https://www.linkedin.com/in/lisakhanya-jonga-0b5b23325)
 
 ---
 
-## 🧾 Professional Summary
+## Professional Summary
 
 Final-year **ICT: Applications Development** student with a broad academic background in software development, information systems, networking, and digital technologies.
 
@@ -17,30 +17,30 @@ Equipped with strong **problem-solving, analytical, and communication skills** t
 
 ---
 
-## 🎓 Education
+## Education
 
 **Cape Peninsula University of Technology**  
 Diploma in ICT: Applications Development  
-📅 2024 – 2026
+ 2024 – 2026
 
 **Khwezilomso Comprehensive School**  
 National Senior Certificate  
-📅 2021
+ 2021
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 - **Programming:** Java, JavaScript, PHP, Python  
 - **Web Development:** HTML, CSS  
-- **Database:** MySQL  
+- **Database:** SQL  
 - **Operating Systems:** Linux  
 - **Tools:** Microsoft Office Suite, Power BI  
 - **Other:** Cybersecurity fundamentals
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### OceanHub Africa Hackathon – Assistant (2025)
 
@@ -63,12 +63,14 @@ National Senior Certificate
 
 ---
 
-## 📞 References
+## References
 
 **Lungile Ntuli**  
 AfriHack Connect – CTO  
-📧 lungilentuli@empirasglobalacademy.com  
+Email: lungilentuli@empirasglobalacademy.com  
 
 **Thando Mazomba**  
 OceanHub Venture – Development Manager  
-📧 thando@oceanhub.africa
+Email: thando@oceanhub.africa
+
+
