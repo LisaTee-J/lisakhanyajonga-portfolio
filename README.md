@@ -403,6 +403,7 @@ Each sprint is a list on the Trello board.
 ## 5. Agile Logbook
 
 ### Evidence
+
 | Sprint | Dates (from Trello) | Plan | Outcome |
 |---|---|---|---|
 | 1 Business Idea Brainstorming | 27 Feb to 11 Mar 2026 | Brainstorm, define the problem, choose the final idea | All 4 tasks done. Idea: affordable laptop repairs and refurbished sales for students |
