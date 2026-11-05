@@ -226,7 +226,7 @@ Full charter (whiteboard export): [PC-Revival-Team-Charter.pdf](PC-Revival-Team-
 ### Reflection
 **Situation:** I joined PC Revival after the charter had been agreed, having worked in a different group before. I joined during Sprint 5 (Frontend Development), when the team was already building the website pages.
 **Task:** I had to learn how the team worked and fit in with its agreements.
-**Action:** I read the charter and followed its decision-making and communication rules, using Trello for tasks and WhatsApp for updates. I also joined the team's WhatsApp and Trello so I could pick up tasks, and I worked on design, frontend pages, documentation and testing.
+**Action:** I read the charter and followed its decision-making and communication rules, using Trello for tasks and WhatsApp for updates. I also joined the team's WhatsApp and Trello so I could pick up tasks, and my own work was fixing bugs, adding card payments at checkout and connecting the project to the backend.
 **Result:** The charter gave me a clear picture of roles and expectations, so I could contribute without disrupting the team. It showed me that a charter is useful for new members as well as for the team that wrote it.
 
 ---
@@ -247,11 +247,12 @@ User stories written from the tasks on the Trello board. Each links to the board
 | US7 | As an admin, I want repair requests and inventory stored in a database, so that I can manage them | Set up Supabase backend, Design PostgreSQL database schema, Implement CRUD API endpoints |
 | US8 | As the team, we want the system tested before launch, so that critical defects are fixed | Run unit and integration tests, Test API with Postman, Document test results |
 | US9 | As the team, we want the site live on the internet, so that students can use it | Select hosting platform, Deploy frontend with Vercel, Deploy backend with Supabase |
+| US10 | As a customer, I want to pay by card at checkout, so that I can pay for a repair or laptop online | Integrate online payments, Connect frontend forms to backend API |
 
 ### Reflection
 **Situation:** The team's requirements had to be turned into work that could be tracked.
 **Task:** Describe features from the user's point of view and split them into tasks.
-**Action:** I studied how the board's tasks map to user stories. My own work fell under US1 to US5 and US8: design, the frontend pages and documentation and testing.
+**Action:** I studied how the board's tasks map to user stories. My own work was US3, US6, US7 and a new story I added, US10, for card payments: fixing bugs, adding card payments at checkout and connecting the project to the backend.
 **Result:** Writing "As a… I want… so that…" kept the work focused on the student, and the task breakdown made progress easy to see.
 
 ---
@@ -312,7 +313,7 @@ Sprints 7 to 9 (Integration and Testing, Deployment and Launch, Post Launch and 
 ### Reflection
 **Situation:** All the project's work needed to live in one prioritised list.
 **Task:** Understand and follow the backlog so I knew what was planned and what came next.
-**Action:** I read the backlog, saw how items were labelled by sprint and day, and checked which were done. The items I worked on were in the Design and Frontend Development groups, plus documentation and testing.
+**Action:** I read the backlog, saw how items were labelled by sprint and day, and checked which were done. The items I worked on were Connect frontend forms to backend API, Fix bugs and optimize performance, and Integrate online payments (card payments at checkout).
 **Result:** A backlog gave the team one source of truth and let the Product Owner reprioritise as needed.
 
 ---
@@ -394,7 +395,7 @@ Each sprint is a list on the Trello board.
 ### Reflection
 **Situation:** The team worked in sprints with a clear goal each time.
 **Task:** Follow the sprint plan and see how each sprint built on the last.
-**Action:** I followed the sprints from brainstorming to backend development. I took part from Sprint 5, where my work was on frontend pages and responsive testing, together with design, documentation and testing.
+**Action:** I followed the sprints from brainstorming to backend development. I took part after Sprint 5, and my work was fixing bugs, adding card payments at checkout and connecting the project to the backend, which is the Integration and Testing stage of the plan.
 **Result:** Short sprints with a clear goal showed progress and made unfinished items visible, for example Review against mockups in Sprint 5.
 
 ---
@@ -426,5 +427,5 @@ Sprints 2 to 6:
 ### Reflection
 **Situation:** Agile asks the team to record plans, progress and lessons.
 **Task:** Keep a log of what each sprint planned and delivered.
-**Action:** I summarised each sprint's plan and outcome from the board. Because I joined in Sprint 5, I used the Trello board to catch up on Sprints 1 to 4 before starting my own tasks.
+**Action:** I summarised each sprint's plan and outcome from the board. Because I joined in Sprint 5, I used the Trello board to catch up on Sprints 1 to 4 before starting my own tasks: fixing bugs, adding card payments at checkout and connecting everything to the backend as required.
 **Result:** The logbook made the team's progress easy to review, and it showed which items carried over.
