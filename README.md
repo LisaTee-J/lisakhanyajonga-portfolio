@@ -224,10 +224,10 @@ Full charter (whiteboard export): [PC-Revival-Team-Charter.pdf](PC-Revival-Team-
 | **Roles** | Brainstorming, survey and requirements, planning and analysis, system design, frontend development, backend development (Supabase) |
 
 ### Reflection
-**Situation:** I joined PC Revival after the charter had been agreed, having worked in a different group before. [EDIT: when you joined]
+**Situation:** I joined PC Revival after the charter had been agreed, having worked in a different group before. I joined during Sprint 5 (Frontend Development), when the team was already building the website pages.
 **Task:** I had to learn how the team worked and fit in with its agreements.
-**Action:** I read the charter and followed its decision-making and communication rules, using Trello for tasks and WhatsApp for updates. [EDIT: anything you actually did]
-**Result:** The charter gave me a clear picture of roles and expectations, so I could contribute without disrupting the team. It showed me that a charter is useful for new members as well as for the team that wrote it. [EDIT: your own lesson]
+**Action:** I read the charter and followed its decision-making and communication rules, using Trello for tasks and WhatsApp for updates. I also joined the team's WhatsApp and Trello so I could pick up tasks, and I worked on design, frontend pages, documentation and testing.
+**Result:** The charter gave me a clear picture of roles and expectations, so I could contribute without disrupting the team. It showed me that a charter is useful for new members as well as for the team that wrote it.
 
 ---
 
@@ -251,8 +251,8 @@ User stories written from the tasks on the Trello board. Each links to the board
 ### Reflection
 **Situation:** The team's requirements had to be turned into work that could be tracked.
 **Task:** Describe features from the user's point of view and split them into tasks.
-**Action:** I studied how the board's tasks map to user stories. [EDIT: any story or task you wrote or worked on]
-**Result:** Writing "As a… I want… so that…" kept the work focused on the student, and the task breakdown made progress easy to see. [EDIT: your own lesson]
+**Action:** I studied how the board's tasks map to user stories. My own work fell under US1 to US5 and US8: design, the frontend pages and documentation and testing.
+**Result:** Writing "As a… I want… so that…" kept the work focused on the student, and the task breakdown made progress easy to see.
 
 ---
 
@@ -312,8 +312,8 @@ Sprints 7 to 9 (Integration and Testing, Deployment and Launch, Post Launch and 
 ### Reflection
 **Situation:** All the project's work needed to live in one prioritised list.
 **Task:** Understand and follow the backlog so I knew what was planned and what came next.
-**Action:** I read the backlog, saw how items were labelled by sprint and day, and checked which were done. [EDIT: items you worked on]
-**Result:** A backlog gave the team one source of truth and let the Product Owner reprioritise as needed. [EDIT: your own lesson]
+**Action:** I read the backlog, saw how items were labelled by sprint and day, and checked which were done. The items I worked on were in the Design and Frontend Development groups, plus documentation and testing.
+**Result:** A backlog gave the team one source of truth and let the Product Owner reprioritise as needed.
 
 ---
 
@@ -394,8 +394,8 @@ Each sprint is a list on the Trello board.
 ### Reflection
 **Situation:** The team worked in sprints with a clear goal each time.
 **Task:** Follow the sprint plan and see how each sprint built on the last.
-**Action:** I followed the sprints from brainstorming to backend development. [EDIT: your sprint work, such as tasks you were assigned]
-**Result:** Short sprints with a clear goal showed progress and made unfinished items visible, for example Review against mockups in Sprint 5. [EDIT: your own lesson]
+**Action:** I followed the sprints from brainstorming to backend development. I took part from Sprint 5, where my work was on frontend pages and responsive testing, together with design, documentation and testing.
+**Result:** Short sprints with a clear goal showed progress and made unfinished items visible, for example Review against mockups in Sprint 5.
 
 ---
 
@@ -411,7 +411,7 @@ Each sprint is a list on the Trello board.
 | 5 Frontend Development | n/a | Build the website pages | 8 of 9 done. Review against mockups open |
 | 6 Backend Development | n/a | Supabase, schema, API, booking logic, admin auth | 6 tasks done. Unit tests and backend docs still on the backlog |
 
-Daily stand-up notes: [EDIT: add entries only from days you actually attended, with date, what was done, blockers and next step]
+Daily stand-up notes: I did not attend any recorded stand-ups. This logbook is based on the Trello board, which holds the team's sprint dates and task status, and I joined the team during Sprint 5.
 
 **Trello board screenshots** ([live board](https://trello.com/b/68sMqKP5/pc-revival-project-progress))
 
@@ -426,5 +426,5 @@ Sprints 2 to 6:
 ### Reflection
 **Situation:** Agile asks the team to record plans, progress and lessons.
 **Task:** Keep a log of what each sprint planned and delivered.
-**Action:** I summarised each sprint's plan and outcome from the board. [EDIT: your own stand-up or retrospective notes]
-**Result:** The logbook made the team's progress easy to review, and it showed which items carried over. [EDIT: your own lesson]
+**Action:** I summarised each sprint's plan and outcome from the board. Because I joined in Sprint 5, I used the Trello board to catch up on Sprints 1 to 4 before starting my own tasks.
+**Result:** The logbook made the team's progress easy to review, and it showed which items carried over.
