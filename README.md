@@ -212,6 +212,16 @@ PC Revival is a group project to build a website for affordable laptop repairs a
 ### Evidence
 Full charter (whiteboard export): [PC-Revival-Team-Charter.pdf](PC-Revival-Team-Charter.pdf)
 
+More screenshots are in the [evidence folder](evidence/README.md).
+
+**Team charter screenshots**
+
+![PC Revival Team Charter, overview](evidence/charter-1-overview.png)
+
+![Team purpose and values, decision making, conflict resolution, and workflow](evidence/charter-2-values-decisions-conflict-workflow.png)
+
+![Goals and success, and roles and responsibilities](evidence/charter-3-goals-and-roles.png)
+
 | Section | Summary |
 |---|---|
 | **Purpose** | Collaboratively design, develop, test and deliver a reliable, user-friendly system that supports affordable laptop repairs and refurbished laptop sales |
