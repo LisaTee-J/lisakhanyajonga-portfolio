@@ -413,6 +413,16 @@ Each sprint is a list on the Trello board.
 
 Daily stand-up notes: [EDIT: add entries only from days you actually attended, with date, what was done, blockers and next step]
 
+**Trello board screenshots** ([live board](https://trello.com/b/68sMqKP5/pc-revival-project-progress))
+
+Product Backlog and Sprints 1 to 5:
+
+![Trello board: Product Backlog and Sprints 1 to 5](images/trello-board-1.jpg)
+
+Sprints 2 to 6:
+
+![Trello board: Sprints 2 to 6](images/trello-board-2.jpg)
+
 ### Reflection
 **Situation:** Agile asks the team to record plans, progress and lessons.
 **Task:** Keep a log of what each sprint planned and delivered.
