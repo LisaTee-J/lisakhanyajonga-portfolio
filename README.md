@@ -1,6 +1,8 @@
 # lisakhanyajonga-portfolio
 My GitHub Portfolio
 
+> **Assessment (PRP370): [Go straight to my Agile project portfolio: Team Charter, User Stories, Product Backlog, Sprint Backlog and Logbook](#agile-project-portfolio-pc-revival)**
+
 # Lisakhanya Tinae Jonga
 
  **Cape Town, Western Cape**  
